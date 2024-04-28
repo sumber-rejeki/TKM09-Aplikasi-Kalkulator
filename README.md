@@ -22,7 +22,10 @@ Kelompok kami mengembangkan aplikasi kalkulator sederhana menggunakan bahasa Kot
 1.	Uji aplikasi Anda di emulator Android untuk memastikan operasi kalkulator berfungsi dengan baik.
 
 ### Output
-![night](https://github.com/sumber-rejeki/TKM09-Aplikasi-Kalkulator/blob/d04609a12b24f42a1c8faafebac8170085214d50/k_night.jpg?raw=true)
+<p float="left">
+  <img src="https://github.com/sumber-rejeki/TKM09-Aplikasi-Kalkulator/blob/d04609a12b24f42a1c8faafebac8170085214d50/k_night.jpg?raw=true" alt="Night" width="400"/>
+  <img src="https://github.com/sumber-rejeki/TKM09-Aplikasi-Kalkulator/blob/e8e53abac23dd6b8daf19f079b213b0e28fb19d3/k_sun.jpg?raw=true" alt="Sun" width="400"/>
+</p>
 
 ### Authors
 
