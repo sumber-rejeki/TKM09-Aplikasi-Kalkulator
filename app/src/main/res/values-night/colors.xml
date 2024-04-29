@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_background">#0B2B3C</color>
+    <color name="primary_text">#DEDEE4</color>
+    <color name="secondary_text">#74797C</color>
+    <color name="action_text">#48C1B5</color>
+    <color name="all_clear_text">#EA6B6A</color>
+    <color name="equal_button_background">#36B8AB</color>
+    <color name="equal_button_text">#FFFEFE</color>
+    <color name="buttons_background">#151A23</color>
+    <color name="divider">#6D767C</color>
+    <color name="status_bar">#23272C</color>
+</resources>
