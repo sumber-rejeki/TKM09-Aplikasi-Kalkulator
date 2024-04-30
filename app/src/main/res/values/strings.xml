@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculatorApp</string>
+    <string name="app_name">Kalkulator-App</string>
     <string name="zero">0</string>
     <string name="double_zero">00</string>
     <string name="one">1</string>
@@ -15,7 +15,7 @@
     <string name="subtraction">\u2212</string>
     <string name="division">\u00F7</string>
     <string name="multiplication">\u00D7</string>
-    <string name="equal">\u003D</string>
+    <string name="equals">\u003D</string>
     <string name="decimal_point">.</string>
     <string name="plus_minus">\u00B1</string>
     <string name="percentage">\u0025</string>
