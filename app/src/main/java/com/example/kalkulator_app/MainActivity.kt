@@ -1,4 +1,4 @@
-package com.example.calculatorapp
+package com.example.kalkulator_app
 
 import android.health.connect.datatypes.units.Percentage
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.calculatorapp.databinding.ActivityMainBinding
+import com.example.kalkulator_app.databinding.ActivityMainBinding
 import java.lang.StringBuilder
 
 class MainActivity : AppCompatActivity() {
